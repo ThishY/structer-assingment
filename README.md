@@ -1,1 +1,1 @@
-# Structur-Assignment
+# Structure-Assignment
